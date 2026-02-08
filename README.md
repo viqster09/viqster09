@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008319&width=435&lines=Viqster09+%7C+App+Developper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008319&center=true&vCenter=true&width=435&lines=Viqster09+%7C+App+Developper)](https://git.io/typing-svg)
+
+---
 
 ## About Me 👨‍💻
 
@@ -10,18 +12,10 @@
 
 ---
 
-## 🚀 Skills
-
-- **Programming Languages**: Python, C#, JavaScript
-- **Systems**: Linux, Windows, Docker
-- **Frameworks and Tools**: Flask, Django, TensorFlow, Docker
-- **DevOps & Networking**: Nginx, AWS, VPN, Docker
-
----
 
 ## 📣 Contact Me
 
-- **Discord**: [Viqster09#1234](https://discord.com/users/collossus_flash) 💬
+- **Discord**: [Shokitori](https://discord.com/users/collossus_flash) 💬
 - **Instagram**: [@viqster09](https://www.instagram.com/viqster09/) 📸
 ---
 
