@@ -38,5 +38,5 @@
 ## 🎯 My Goals
 
 - 📈 Improve my skills in **Deep Learning** and **Cloud Computing**.
-- 🖥️ Contribute to **open-source** projects on **GitHub**.
+- 🖥️ Want to be **White Hat** 
 - 🛠️ Build **automation tools** and **cross-platform applications**.
