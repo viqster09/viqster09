@@ -2,7 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008319&center=true&vCenter=true&width=435&lines=%7B%23%7D+Viqster09+%7C+App+Developper" alt="Typing SVG" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=viqster09)
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=viqster09&color=28a745)
+</p>
 
 
 
