@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=viqster09&color=28a745)
+  <p ![Profile Views](https://komarev.com/ghpvc/?username=viqster09&color=28a745)/>
 </p>
 
 
