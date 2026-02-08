@@ -1,4 +1,6 @@
-![Viqster09 | App Developer](https://img.shields.io/badge/Viqster09%20|%20App%20Developer-4C6E58?style=for-the-badge&logo=python&logoColor=white)
+```bash
+Viqster09 | App Developer
+````
 
 ## About Me 👨‍💻
 
