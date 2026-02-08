@@ -24,13 +24,11 @@
 
 
 ## 🛠️ Badges and Stats
-<p align="center">
+
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue)
 ![RootMe Badge](https://img.shields.io/badge/RootMe-Badge-red)
 ![Linux Badge](https://img.shields.io/badge/Linux-Debian-black)
 ![RootMe Badge](https://img.shields.io/badge/RootMe-%F0%9F%94%B4-black?style=for-the-badge&logo=github&logoColor=white&link=https://www.root-me.org/pandemie-797363?lang=fr)
-
-</p>
 
 ---
 
