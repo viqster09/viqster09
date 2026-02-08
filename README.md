@@ -24,12 +24,13 @@
 
 
 ## 🛠️ Badges and Stats
-
-![Python Badge](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AI Badge](https://img.shields.io/badge/AI-ML-green?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Network Badge](https://img.shields.io/badge/Network-Expert-yellow?style=for-the-badge&logo=cisco&logoColor=white)
+<p align="center">
+![Python Badge](https://img.shields.io/badge/Python-3.9-blue)
+![RootMe Badge](https://img.shields.io/badge/RootMe-Badge-red)
+![Linux Badge](https://img.shields.io/badge/Linux-Debian-black)
 ![RootMe Badge](https://img.shields.io/badge/RootMe-%F0%9F%94%B4-black?style=for-the-badge&logo=github&logoColor=white&link=https://www.root-me.org/pandemie-797363?lang=fr)
+
+</p>
 
 ---
 
