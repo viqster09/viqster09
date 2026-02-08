@@ -26,7 +26,7 @@
 ## 🛠️ Badges and Stats
 
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue)
-![RootMe Badge](https://img.shields.io/badge/RootMe-Badge-red&link=https://www.root-me.org/pandemie-797363?lang=fr)
+![RootMe Badge](https://img.shields.io/badge/RootMe-Badge-red)](https://www.root-me.org/pandemie-797363?lang=fr)
 ![Linux Badge](https://img.shields.io/badge/Linux-Debian-black)
 
 ---
