@@ -1,6 +1,4 @@
-```bash
-Viqster09 | App Developer
-````
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008319&width=435&lines=Viqster09+%7C+App+Developper)](https://git.io/typing-svg)
 
 ## About Me 👨‍💻
 
