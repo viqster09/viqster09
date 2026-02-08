@@ -2,7 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008319&center=true&vCenter=true&width=435&lines=%7B%23%7D+Viqster09+%7C+App+Developper" alt="Typing SVG" /></a>
 </p>
 
-![Viqster09's GitHub stats](https://github-readme-stats.vercel.app/api?username=viqster09&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=viqster09)
+
 
 
 ---
@@ -31,12 +32,6 @@
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue)
 [![RootMe Badge](https://img.shields.io/badge/RootMe-Viqster09-red)](https://www.root-me.org/pandemie-797363?lang=fr)
 ![Linux Badge](https://img.shields.io/badge/Linux-Debian-black)
-
----
-
-## 📊 Lang Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viqster09&layout=compact&theme=dark)
 
 ---
 
