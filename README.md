@@ -2,6 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008319&center=true&vCenter=true&width=435&lines=%7B%23%7D+Viqster09+%7C+App+Developper" alt="Typing SVG" /></a>
 </p>
 
+![Viqster09's GitHub stats](https://github-readme-stats.vercel.app/api?username=viqster09&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+
 ---
 
 ## About Me 👨‍💻
@@ -31,9 +34,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Lang Stats
 
-![Viqster09's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viqster09&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viqster09&layout=compact&theme=dark)
 
 ---
 
